@@ -27,7 +27,7 @@ save, delete from the library of books provided.
 
 ## Deployed URL:
 
-https://git.heroku.com/secure-anchorage-65096.git
+https://secure-anchorage-65096.herokuapp.com/
 
 ## For additional questions please contact me at my email at:
 
