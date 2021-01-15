@@ -1,7 +1,6 @@
 # what-is-that-book
 
-
-<img width="1419" alt="Screen Shot 2020-12-12 at 7 03 54 PM" src="https://user-images.githubusercontent.com/67357469/102001978-d32e4b00-3cac-11eb-850f-53c92031c8e7.png">
+<img width="1329" alt="Screen Shot 2021-01-14 at 10 14 00 PM" src="https://user-images.githubusercontent.com/67357469/104688594-e2425780-56b5-11eb-93a3-e40f951d27ea.png">
 
 
 ## Purpose 
